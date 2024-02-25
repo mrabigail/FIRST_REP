@@ -1,5 +1,6 @@
 This repository is the draft for Abigail M R's LIS 545 Final Project.
-In this repository will be 1) A dataset: FDIC Failed Banks List
-2) The metadata file for the above dataset
-3) Updated versions of the relevant Data and Metadata Profile and Repository Profile.
+In this repository will be 1) The .csv FDIC Failed Banks List
+2) The .json metadata file for the FDIC Failed Banks List dataset
+3) A .docx Data and Metadata Profile that discusses the .csv and .json files and 
+4) A .docx Repository Profile that discusses the choosing of the FRED repository
 # FIRST_REP
