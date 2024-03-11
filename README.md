@@ -3,7 +3,7 @@ In this repository will be
 
 1) The .csv FDIC Failed Banks List (bank list (1))
 
-2) The .json metadata file for the FDIC Failed Banks List dataset (failed bank list metadata)
+2) The .json metadata file for the FDIC Failed Banks List dataset (FDIC Failed Banks Metadata JSON)
 
 3) A .docx Data and Metadata Profile that discusses the .csv and .json files (Data Metadata Profile LIS 545)
 
