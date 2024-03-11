@@ -29,8 +29,9 @@
       "subOrganizationOf": 
         {"name": "Federal Deposit Insurance Corporation", 
           "subOrganizationOf": 
-            {"name": "U.S. Government"}
+            {"name": "U.S. Government"
+            }
         }
     }, 
-  "title": "FDIC Failed Bank List"
-}
+    "title": "FDIC Failed Bank List"
+  }
